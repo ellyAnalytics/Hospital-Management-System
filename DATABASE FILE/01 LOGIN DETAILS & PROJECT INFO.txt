@@ -1,0 +1,21 @@
+
+
+Database Name: hmisphp
+
+
+
+
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Doctor Login Details**
+pauline
+ID      : YDS7L
+Password: password
+
+
